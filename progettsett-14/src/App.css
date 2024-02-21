@@ -1,0 +1,59 @@
+.navbar-custom{
+  background-color: #1A282F;
+  color: aliceblue;
+  border-bottom: 1px solid rgb(255, 255, 255);
+}
+.navbar-brand{
+  color: aliceblue;
+}
+
+.nav-link{
+  color: aliceblue;
+}
+
+body{
+  background-color: white;
+}
+
+.footer{
+color: white;
+background-color: #1A282F;
+height: 7rem;
+}
+
+code{
+  color: white;
+}
+
+.row>* {
+  padding: 0rem;
+}
+
+
+::-webkit-scrollbar {
+  width: 10px; 
+}
+
+::-webkit-scrollbar-thumb {
+  background-color:  #1A282F; 
+  border-radius: 5px; 
+}
+
+
+.scrollbar {
+  scrollbar-width: thin; 
+}
+
+.scrollbar-thumb {
+  background-color:  #1A282F; 
+  border-radius: 5px; 
+}
+
+.nav-link:hover {
+  background-color: #2c4450;
+  color: white;
+}
+
+.navbar-brand:hover {
+  color: white;
+}
